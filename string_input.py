@@ -13,7 +13,7 @@ input_from_keyboard = input
 
 
 # Метод для чтения из строки input_data
-def input_from_string():
+def input_from_string(*args, **kwargs):
     global input_data
     if isinstance(input_data, str):
         input_data = [line for line in input_data.split('\n') if line]
