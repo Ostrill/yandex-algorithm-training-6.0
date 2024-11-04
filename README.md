@@ -36,12 +36,9 @@ P.S. Можно было сделать это и через перенапра�
 ## Список задач
 
 ### Занятие 1. Тестирование
-<table style="text-align: center;">
-<tr>
-<td><a href="homework_1.ipynb"><img src="images/1A.jpg"/>A. Плот</a></td>
-<td><a href="homework_1.ipynb"><img src="images/1B.webp"/>B. Майки и носки</a></td>
-<td><a href="homework_1.ipynb"><img src="images/1C.webp"/>C. Надпись на табло</a></td>
-<td><a href="homework_1.ipynb">D. Тестирование</a></td>
-<td><a href="homework_1.ipynb">E. Тестирование</a></td>
-</tr>
-</table>
+
+<a href="homework_1.ipynb"><img src="images/1A.jpg" width="18%"/></a>
+<a href="homework_1.ipynb"><img src="images/1B.webp" width="18%"/></a>
+<a href="homework_1.ipynb"><img src="images/1C.webp" width="18%"/></a>
+<a href="homework_1.ipynb"></a>
+<a href="homework_1.ipynb"></a>
