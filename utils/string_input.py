@@ -23,17 +23,23 @@ def input_from_string(*args, **kwargs):
 
 # Текущий режим работы метода input()
 input_mode = 'str'
-input = input_from_string
+
+
+# Метод input(), читающий с клавиатуры или строки
+def input(*args, **kwargs):
+    global input_mode
+    if input_mode == 'str':
+        return input_from_string(*args, **kwargs)
+    else:
+        return input_from_keyboard(*args, **kwargs)
 
 
 # Переключение режимов работы метода input()
 def toggle_input_mode():
-    global input_mode, input
+    global input_mode
     if input_mode == 'str':
         input_mode = 'kbd'
-        input = input_from_keyboard
         print('Сейчас input() читает с клавиатуры')
     else:
         input_mode = 'str'
-        input = input_from_string
         print('Сейчас input() читает из строки input_data')
