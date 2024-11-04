@@ -33,6 +33,15 @@ P.S. Можно было сделать это и через перенапра�
 </blockquote>
 </details>
 
-## Навигация по задачам
+## Список задач
 
-<a href="homework_1.ipynb#scrollTo=298e25e0-eb21-4bf9-9cd9-2f0e9e66456b"><img src="images/1A.jpg"/></a>
+### Занятие 1. Тестирование
+<table style="text-align: center;">
+<tr>
+<td><a href="homework_1.ipynb"><img src="images/1A.jpg"/>A. Плот</a></td>
+<td><a href="homework_1.ipynb"><img src="images/1B.webp"/>B. Майки и носки</a></td>
+<td><a href="homework_1.ipynb"><img src="images/1C.webp"/>C. Надпись на табло</a></td>
+<td><a href="homework_1.ipynb">D. Тестирование</a></td>
+<td><a href="homework_1.ipynb">E. Тестирование</a></td>
+</tr>
+</table>
