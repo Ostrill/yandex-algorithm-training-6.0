@@ -38,7 +38,7 @@ P.S. Можно было сделать это и через перенапра�
 ### Занятие 1. Тестирование
 
 <a href="homework_1.ipynb"><img src="images/1A.jpg" width="18%"/></a>
-<a href="homework_1.ipynb"><img src="images/1B.webp" width="18%"/></a>
-<a href="homework_1.ipynb"><img src="images/1C.webp" width="18%"/></a>
-<a href="homework_1.ipynb"></a>
-<a href="homework_1.ipynb"></a>
+<a href="homework_1.ipynb"><img src="images/1B.jpg" width="18%"/></a>
+<a href="homework_1.ipynb"><img src="images/1C.jpg" width="18%"/></a>
+<a href="homework_1.ipynb"><img src="images/1D.jpg" width="18%"/></a>
+<a href="homework_1.ipynb"><img src="images/1E.jpg" width="18%"/></a>
