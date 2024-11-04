@@ -42,3 +42,16 @@ P.S. Можно было сделать это и через перенапра�
 <a href="homework_1.ipynb"><img src="images/1C.jpg" width="18%"/></a>
 <a href="homework_1.ipynb"><img src="images/1D.jpg" width="18%"/></a>
 <a href="homework_1.ipynb"><img src="images/1E.jpg" width="18%"/></a>
+
+### Занятие 2. Префиксные суммы и два указателя
+
+<a href="homework_2.ipynb"><img src="images/2A.jpg" width="18%"/></a>
+<a href="homework_2.ipynb"><img src="images/2B.jpg" width="18%"/></a>
+<a href="homework_2.ipynb"><img src="images/2C.jpg" width="18%"/></a>
+<a href="homework_2.ipynb"><img src="images/2D.jpg" width="18%"/></a>
+<a href="homework_2.ipynb"><img src="images/2E.jpg" width="18%"/></a>
+<a href="homework_2.ipynb"><img src="images/2F.jpg" width="18%"/></a>
+<a href="homework_2.ipynb"><img src="images/2G.jpg" width="18%"/></a>
+<a href="homework_2.ipynb"><img src="images/2H.jpg" width="18%"/></a>
+<a href="homework_2.ipynb"><img src="images/2I.jpg" width="18%"/></a>
+<a href="homework_2.ipynb"><img src="images/2J.jpg" width="18%"/></a>
