@@ -35,4 +35,4 @@ P.S. Можно было сделать это и через перенапра�
 
 ## Навигация по задачам
 
-<a href="homework_1.ipynb#B"><img src="images/1A.jpg"/></a>
+<a href="homework_1.ipynb#scrollTo=298e25e0-eb21-4bf9-9cd9-2f0e9e66456b"><img src="images/1A.jpg"/></a>
