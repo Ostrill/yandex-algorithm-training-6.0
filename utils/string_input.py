@@ -1,11 +1,13 @@
-# Строка для чтения методом input()
-input_data = ''
+# Данные для чтения методом input()
+input_data = iter([])
 
 
 # Метод для установки значения строки для чтения
 def set_input(text):
-    global input_data
-    input_data = text
+    global input_data, input_mode
+    if not hasattr(text, '__next__'):
+        input_data = (line for line in str(text).split('\n') if line)
+    input_mode = 'str'
 
 
 # Метод для чтения с клавиатуры, то есть стандартный input()
@@ -14,15 +16,16 @@ input_from_keyboard = input
 
 # Метод для чтения из строки input_data
 def input_from_string(*args, **kwargs):
-    global input_data
-    if isinstance(input_data, str):
-        input_data = [line for line in input_data.split('\n') if line]
-        input_data = input_data.__iter__()
-    return next(input_data)
+    global input_data, input_mode
+    try: 
+        return next(input_data)
+    except StopIteration:
+        input_mode = 'kbd'
+        return input(*args, **kwargs)
 
 
-# Текущий режим работы метода input()
-input_mode = 'str'
+# Режим работы метода input() по умолчанию
+input_mode = 'kbd'
 
 
 # Метод input(), читающий с клавиатуры или строки
@@ -34,7 +37,7 @@ def input(*args, **kwargs):
         return input_from_keyboard(*args, **kwargs)
 
 
-# Переключение режимов работы метода input()
+# Ручное переключение режимов работы метода input()
 def toggle_input_mode():
     global input_mode
     if input_mode == 'str':
