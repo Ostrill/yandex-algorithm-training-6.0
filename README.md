@@ -53,3 +53,16 @@ P.S. Можно было сделать это и через перенапра�
 <a href="homework_2.ipynb"><img src="images/2H.jpg" width="18%"/></a>
 <a href="homework_2.ipynb"><img src="images/2I.jpg" width="18%"/></a>
 <a href="homework_2.ipynb"><img src="images/2J.jpg" width="18%"/></a>
+
+### Занятие 3. Стеки, очереди, деки
+
+<a href="homework_3.ipynb"><img src="images/3A.jpg" width="18%"/></a>
+<a href="homework_3.ipynb"><img src="images/3B.jpg" width="18%"/></a>
+<a href="homework_3.ipynb"><img src="images/3C.jpg" width="18%"/></a>
+<a href="homework_3.ipynb"><img src="images/3D.jpg" width="18%"/></a>
+<a href="homework_3.ipynb"><img src="images/3E.jpg" width="18%"/></a>
+<a href="homework_3.ipynb"><img src="images/3F.jpg" width="18%"/></a>
+<a href="homework_3.ipynb"><img src="images/3G.jpg" width="18%"/></a>
+<a href="homework_3.ipynb"><img src="images/3H.jpg" width="18%"/></a>
+<a href="homework_3.ipynb"><img src="images/3I.jpg" width="18%"/></a>
+<a href="homework_3.ipynb"><img src="images/3J.jpg" width="18%"/></a>
