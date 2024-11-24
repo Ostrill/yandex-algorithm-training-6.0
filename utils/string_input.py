@@ -3,10 +3,13 @@ input_data = iter([])
 
 
 # Метод для установки значения строки для чтения
-def set_input(text):
+def set_input(text, skip_empty=True):
     global input_data, input_mode
     if not hasattr(text, '__next__'):
-        input_data = (line for line in str(text).split('\n') if line)
+        if skip_empty:
+            input_data = (line for line in str(text).split('\n') if line)
+        else:
+            input_data = (line for line in str(text).split('\n'))
     input_mode = 'str'
 
 
@@ -46,3 +49,11 @@ def toggle_input_mode():
     else:
         input_mode = 'str'
         print('Сейчас input() читает из строки input_data')
+
+
+# Метод для установки содержимого input.txt
+def set_file(text, skip_empty=True):
+    with open('input.txt', 'w') as file:
+        if skip_empty:
+            text = '\n'.join(line for line in text.split('\n') if line)
+        file.write(text)
