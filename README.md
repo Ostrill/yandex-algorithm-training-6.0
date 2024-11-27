@@ -66,3 +66,16 @@ P.S. Можно было сделать это и через перенапра�
 <a href="homework_3.ipynb"><img src="images/3H.jpg" width="18%"/></a>
 <a href="homework_3.ipynb"><img src="images/3I.jpg" width="18%"/></a>
 <a href="homework_3.ipynb"><img src="images/3J.jpg" width="18%"/></a>
+
+### Занятие 4. Деревья, представления и обходы
+
+<a href="homework_4.ipynb"><img src="images/4A.jpg" width="18%"/></a>
+<a href="homework_4.ipynb"><img src="images/4B.jpg" width="18%"/></a>
+<a href="homework_4.ipynb"><img src="images/4C.jpg" width="18%"/></a>
+<a href="homework_4.ipynb"><img src="images/4D.jpg" width="18%"/></a>
+<a href="homework_4.ipynb"><img src="images/4E.jpg" width="18%"/></a>
+<a href="homework_4.ipynb"><img src="images/4F.jpg" width="18%"/></a>
+<a href="homework_4.ipynb"><img src="images/4G.jpg" width="18%"/></a>
+<a href="homework_4.ipynb"><img src="images/4H.jpg" width="18%"/></a>
+<a href="homework_4.ipynb"><img src="images/4I.jpg" width="18%"/></a>
+<a href="homework_4.ipynb"><img src="images/4J.jpg" width="18%"/></a>
